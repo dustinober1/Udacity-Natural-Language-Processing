@@ -9,14 +9,11 @@
 ## Spam Classifier with Naive Bayes
 - [Spam Classifier](/03%20-%20SPAM%20Classifier/)
 
-## Part of Speech Tagging with HMMs
-
 ## IBM Watson Bookworm Lab
 - [Bookworm](/04%20-%20Bookworm/)
 
-## Jobs in NLP
-
-## Feature extraction and embeddings
+## Topic Modeling
+- [Topic Modeling](/05%20-%20Topic%20Modeling/)
 
 # Project 1 - Project: Part of Speech Tagging
 - [Parts of Speech Tagging](/Project%201%20-%20Part%20of%20Speech%20Tagging/)
