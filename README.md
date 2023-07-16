@@ -22,5 +22,11 @@
 #### Deep Learning Attention
 - [Attention Basics](/08%20-%20Deep%20Learning%20Attention/)
 
+#### RNN Keras Lab
+- [Deciphering Code with Character-Level RNNs](/09%20-%20Deciphering%20Code%20with%20Character-Level%20RNNs/)
+
 # Project 1 - Project: Part of Speech Tagging
 - [Parts of Speech Tagging](/Project%201%20-%20Part%20of%20Speech%20Tagging/)
+
+# Project 2 - NLP Machine Translation
+- [NLP Machine Translation](/Project%202%20-%20Project%202%20-%20NLP%20Machine%20Translation/)
