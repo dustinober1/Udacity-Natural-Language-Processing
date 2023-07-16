@@ -29,4 +29,4 @@
 - [Parts of Speech Tagging](/Project%201%20-%20Part%20of%20Speech%20Tagging/)
 
 # Project 2 - NLP Machine Translation
-- [NLP Machine Translation](/Project%202%20-%20Project%202%20-%20NLP%20Machine%20Translation/)
+- [NLP Machine Translation](/Project%202%20-%20NLP%20Machine%20Translation/)
