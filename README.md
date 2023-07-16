@@ -19,5 +19,8 @@
 - [Sentiment Analysis with a Regular Classifier](/06%20-%20Sentiment%20Analysis%20with%20a%20Regular%20Classifier/)
 - [Sentiment Analysis with an RNN](/07%20-%20Sentiment%20Analysis%20with%20an%20RNN/)
 
+#### Deep Learning Attention
+- [Attention Basics](/08%20-%20Deep%20Learning%20Attention/)
+
 # Project 1 - Project: Part of Speech Tagging
 - [Parts of Speech Tagging](/Project%201%20-%20Part%20of%20Speech%20Tagging/)
