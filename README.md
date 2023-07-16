@@ -2,15 +2,9 @@
 
 ## Welcome to Natural Language Processing
 ### Intro to NLP
-- Introducing Arpan
-- NLP Overview
-- Structured Languages
-- Grammar
-- Unstructured Text
 - [Counting Words](/01%20-%20Counting%20Words/)
-- Context Is Everything
-- NLP and Pipelines
-- How NLP Pipelines Work
-- Text Processing
-- Feature Extraction
-- Modeling
+
+### Text Processing
+- [Text Processing Coding](/02%20-%20Text%20Processing%20Coding/)
+
+### Spam Classifier with Naive Bayes
